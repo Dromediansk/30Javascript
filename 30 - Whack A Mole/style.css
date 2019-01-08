@@ -36,6 +36,19 @@ h1 {
   margin: 0 auto;
 }
 
+.btn-start {
+  text-align: center;
+  margin: 50px 0;
+}
+
+.btn-start button {
+  padding: 20px 40px;
+  outline: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 3px;
+}
+
 .hole {
   flex: 1 0 33.33%;
   overflow: hidden;
